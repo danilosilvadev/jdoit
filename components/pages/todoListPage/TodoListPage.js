@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { AppRegistry, View } from 'react-native';
+import { View } from 'react-native';
 
 const TodoListPage = () => (
       <View style={{flex: 1, flexDirection: 'row'}}>

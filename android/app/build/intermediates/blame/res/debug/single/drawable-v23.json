@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/danilosilvadev/Desktop/code/worthit/worthit/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/danilosilvadev/Desktop/code/worthit/worthit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
         "merged": "/home/danilosilvadev/Desktop/code/jdoit/jdoit/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
         "source": "/home/danilosilvadev/Desktop/code/jdoit/jdoit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v23/abc_control_background_material.xml"
     }
